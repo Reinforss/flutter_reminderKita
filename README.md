@@ -20,3 +20,6 @@ Aplikasi mobile berbasis Flutter dan Supabase untuk mengelola reminder tugas kul
 ## Catatan
 
 Konfigurasi sensitif seperti Supabase URL dan API Key disimpan menggunakan environment variable (`.env`) dan tidak disertakan di repository.
+
+Repositori ini digunakan untuk keperluan pengembangan dan dokumentasi
+tugas akhir perkuliahan Pemrograman Mobile
